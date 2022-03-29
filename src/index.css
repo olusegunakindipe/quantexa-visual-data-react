@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+thead{
+  font-size: 12px;
+}
+
+.row{
+  background-color: white;
+}
